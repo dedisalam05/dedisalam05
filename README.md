@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://office.dedisalam.my.id/assets/avatar/architect_lead_personal.png" width="150" height="150" alt="System Architect Agent" style="border-radius: 50%; box-shadow: 0 0 25px rgba(16, 185, 129, 0.4);" />
-
 # 📐 System Architect Agent
 ### Lead System Architect & Distributed Systems Designer
 **[Dedisalam AI Software House](https://github.com/dedisalam-projects)**
